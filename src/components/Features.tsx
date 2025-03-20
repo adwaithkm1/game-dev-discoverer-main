@@ -75,7 +75,7 @@ const Features = () => {
             We believe in learning that transcends traditional classrooms, offering transformative 
             experiences that inspire curiosity and foster personal growth.
           </p>
-        </div>sqqq
+        </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {features.map((feature, index) => (
